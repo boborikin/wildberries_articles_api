@@ -1,4 +1,4 @@
-# Productlab тестовое задание Python
+# Wildberries получение даннных об артикле по API
 <img src="https://img.shields.io/badge/python-3.10-green"></img>
 <img src="https://img.shields.io/badge/django-3.26-green"></img>
 ### Установка необходимым зависимостей
